@@ -1,0 +1,32 @@
+[
+    {
+        "name" : "server-1",
+        "ip": "",
+        "username": "",
+        "password": "",
+        "port": "",
+        "beforeHooks": "chmod -R 0777 ${RELEASE_PATH}/storage",
+        "afterHooks": "",
+        "path": "/var/www/...."
+    },
+    {
+        "name" : "server-2",
+        "ip": "",
+        "username": "",
+        "password": "",
+        "port": "",
+        "beforeHooks": "chmod -R 0777 ${RELEASE_PATH}/storage",
+        "afterHooks": "",
+        "path": "/var/www/...."
+    },
+    {
+        "name" : "server-3",
+        "ip": "",
+        "username": "",
+        "password": "",
+        "port": "",
+        "beforeHooks": "chmod -R 0777 ${RELEASE_PATH}/storage",
+        "afterHooks": "",
+        "path": "/var/www/...."
+    } 
+]
